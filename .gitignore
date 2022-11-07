@@ -1,2 +1,6 @@
 seeds.txt
 *.out
+.vscode
+build/
+*.exe
+*.o
